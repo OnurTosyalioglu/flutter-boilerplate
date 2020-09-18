@@ -10,8 +10,6 @@ class LocaleInit {
 
   static const supportedLocales = [
     Locale('en', 'US'),
-    Locale('ru', 'RU'),
-    Locale('uz', 'UZ'),
     Locale('tr', 'TR'),
   ];
 
