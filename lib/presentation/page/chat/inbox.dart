@@ -1,11 +1,11 @@
 import 'package:flutter/cupertino.dart';
 
-class Image extends StatefulWidget {
+class Inbox extends StatefulWidget {
   @override
-  _ImageState createState() => _ImageState();
+  _InboxState createState() => _InboxState();
 }
 
-class _ImageState extends State<Image> {
+class _InboxState extends State<Inbox> {
   @override
   Widget build(BuildContext context) {
     return Container();

@@ -9,8 +9,10 @@ class SizeConfig
 
   static double textMultiplier;
   static double imageSizeMultiplier;
+
   static double heightMultiplier;
   static double widthMultiplier;
+
   static bool isPortrait = true;
   static bool isMobilePortrait = false;
 

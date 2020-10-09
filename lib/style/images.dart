@@ -1,9 +1,9 @@
 class Images {
 	Images._();
 	
-	static const logo = '';
+	static const logo = 'lib/assets/icons';
 
-	static const introFirst = '';
-	static const introSecond = '';
-	static const introThird = '';
+	static const introFirst = 'lib/assets/images';
+	static const introSecond = 'lib/assets/images';
+	static const introThird = 'lib/assets/images';
 }
